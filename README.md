@@ -1,2 +1,2 @@
 # SinglePageApp
-My first Kotlin project
+Just another first project. Keep scrolling
